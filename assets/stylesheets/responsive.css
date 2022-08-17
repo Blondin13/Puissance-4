@@ -165,11 +165,13 @@
     }
 
     #score1 img{
-        width: 8px;
+        width: 4px;
+        height: 30px;
     }
 
     #score2 img{
-        width: 8px;  
+        width: 4px;
+        height: 30px; 
     }
 
     /*------------SECTION-----------*/
